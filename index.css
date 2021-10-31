@@ -1,5 +1,5 @@
 .burner{
-  background-color: blueviolet;
+  
 }
 body{
    
@@ -105,6 +105,8 @@ body{
       display: flex;
       flex-direction: row;
       width: 1800px;
+      background-color: #E1EBE6;
+      padding: 2%;
   }
   #aspect1{
     border: solid;
@@ -115,17 +117,23 @@ body{
     margin-top: 3%;
     text-align: center;
     align-items: center;
+    border-radius: 15px;
+    padding: 2% 2% 2% 2%;
+    font-size: 20px;
     
   }
   #aspect2{
     border: solid;
     width: 30%;
-    border-radius: 10px;
+    border-radius: 15px;
     height: 100%;
     text-align: center;
     align-items: center;
     padding-top: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 7%;
+    padding-right: 5%;
+    padding-left: 5%;
+    font-size: 20px;
     
   }
   #aspect3{
@@ -137,8 +145,134 @@ body{
     margin-top: 3%;
     text-align: center;
     align-items: center;
+    border-radius: 15px;
+    padding: 2% 2% 2% 2%;
+    font-size: 20px;
+  }
+  .double{
+   
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    
   }
 
+  .double2{
+   
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    
+  }
+
+  .baga1{
+    
+    width: 200px;
+    height: 75%;
+    
+  }
+  #doble1{
+    background-color:  #f1f4f5fb;
+    border: solid;
+    margin: 30px;
+    border-radius: 60px;
+    padding: 95px;
+    width: 57%;
+    font-size: 30px;
+    
+    
+  }
+  #doble2{
+    background-color:  #f1f4f5fb;
+  border: solid;
+    margin: 30px;
+    padding: 95px;
+    border-radius: 60px;
+    width: 57%;
+    font-size: 30px;
+   
+  }
+  #doble3{
+    background-color: #f1f4f5fb;
+  border: solid;
+    margin: 30px;
+    padding: 95px;
+    border-radius: 60px;
+    width: 57%;
+    font-size: 30px;
+
+    
+  }
+  #doble4{
+    background-color:  #f1f4f5fb;
+  border: solid;
+  padding: 95px;
+    margin: 30px;
+    border-radius: 60px;
+    width: 57%;
+    font-size: 30px;
+  }
+  #doble5{
+    background-color:  #f1f4f5fb;
+  border: solid;
+  padding: 95px;
+    margin: 30px;
+    border-radius: 60px;
+    width: 57%;
+    font-size: 30px;
+  }
+  #doble6{
+    background-color:  #f1f4f5fb;
+  border: solid;
+  padding: 95px;
+    margin: 30px;
+    border-radius: 60px;
+    width: 57%;
+    font-size: 30px;
+  }
+ #cost{
+  text-align: left;
+ }
+  .cart{
+   display: inline-flex;
+    text-align: right;
+    align-items: right;
+    width: 50px;
+    background-color: #E1EBE6;
+    
+  }
+  #cost .cart{
+    display: inline;
+  }
+
+ /** #bg8{
+      width: 950px;
+      
+      padding-bottom: 50px;
+      float: right;
+      margin-left: 1300px;
+      border: solid;
+      **/
+      
+     
+  }
+ 
+ 
+  
+  
+#ddble{
+ float: right;
+}
+.footer{
+  background-color: hotpink;
+}
+.phone{
+  background-color: #F6B400;
+}
   /**#aspect1{
      background-color: tomato;
      border: solid;
@@ -168,12 +302,22 @@ body{
      margin: 5%;
      text-align: center;
      margin-top: 15%;
+
+     <img src="images/logo.png" alt="">
+        <h4>Burger</h4>
+        <h3>
+            Sitemap
+        </h3>
+        <h6>
+            Home
+            Services
+            About
+            Contact
+        </h6>
+        <h3>
+            Subscribe to our newsletter
+        </h3>
+        <button type="submit"></button>
    **/
- }#photo{
-     display: flex;
-     justify-content: center;
-     text-align: center;
-     width: 30%;
-     background-color: violet;
- }
-  
+ 
+ 
