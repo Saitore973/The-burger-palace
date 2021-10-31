@@ -243,82 +243,17 @@ body{
     display: inline;
   }
   .thedd{
-    background-color: lightseagreen;
-    width: 50%;
-    font-size: 100px;
+    width: 30%;
+    font-size: 50px;
+    padding: 20px;
   }
-
-
- /** #bg8{
-      width: 950px;
-      
-      padding-bottom: 50px;
-      float: right;
-      margin-left: 1300px;
-      border: solid;
-      **/
-      
-     
+  .burgar8{
+    background-color: blueviolet;
+    float: right;
+    padding: 10%;
   }
- .burgar8{
-   background-color: rgb(90, 54, 18);
- }
-}
-.footer{
-  background-color: hotpink;
-}
-.phone{
-  background-color: #F6B400;
-}
-.prefooter{
-  background-color: maroon;
-  width: 30px;
-}
-  /**#aspect1{
-     background-color: tomato;
-     border: solid;
-     height: 20em;
     
-     margin: 5%;
-     justify-self: center;
-     text-align: center;
-     margin-top: 15%;
-    /**
-    
-  }
-  #aspect2{
-    background-color: tomato;
-    border: solid;
-    
-    margin: 7%;
-    height: 25em;
-   
-    margin-bottom: 2000px;
- }
- #aspect3{
-    background-color: tomato;
-     border: solid;
-     height: 20em;
-    
-     margin: 5%;
-     text-align: center;
-     margin-top: 15%;
-
-     <img src="images/logo.png" alt="">
-        <h4>Burger</h4>
-        <h3>
-            Sitemap
-        </h3>
-        <h6>
-            Home
-            Services
-            About
-            Contact
-        </h6>
-        <h3>
-            Subscribe to our newsletter
-        </h3>
-        <button type="submit"></button>
-   **/
+  
  
+  
  
