@@ -1,0 +1,179 @@
+.burner{
+  background-color: blueviolet;
+}
+body{
+   
+    font-family: poppins;
+}
+#header{
+   display: inline; 
+   padding: 1200px;
+  
+}.dot {
+    height: 25px;
+    width: 25px;
+    
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .logo{
+     position: absolute; 
+     left: 100px;
+     top: 40px;
+     font-style: inherit;
+     font-family: ;
+  }
+  .home{
+      position: absolute;
+      left: 1000px;
+      top: 10px;
+    
+      
+  }
+  .offer{
+    position: absolute;
+      left: 1150px;
+      top: 10px;
+  }
+  .contact{
+    position: absolute;
+    left: 1300px;
+    top: 10px;
+  }
+  .about{
+    position: absolute;
+    left: 1450px;
+    top: 10px;
+  }
+  .Icon1{
+    position: absolute;
+    left: 1600px;
+    top: -28px;
+    width: 150px;
+  }
+  .burger1{
+    
+      width: 950px;
+      float: right ;
+      height: 1400px;
+     
+  }
+  .dev{
+    
+    float: left ;
+    width: 850px;
+    height: 1400px;
+    line-height: 150px;
+  }
+  .caption1{
+      width: 1800px;
+      padding 100px;
+      font-size: 90px;
+      text-indent: 85px;
+      line-height: 5px;
+      
+  }
+  .caption2{
+    width: 1800px;
+    padding: 100px;
+    font-size: 90px;
+    line-height: 5px;
+  }
+  .caption3{
+      
+      padding: 90px;
+     margin-top: 80px;
+     margin-left: -105px;
+  }
+  .del{
+      font-size: 50px;
+      padding: 20px;
+      line-height: 50px;
+      
+  }
+  .button{
+      
+      display: inline-block;
+  padding: 1.35rem 2.25rem;
+  border-radius: 100rem;
+  color: #fff;
+ 
+ 
+ 
+  }
+  .container{
+      display: flex;
+      flex-direction: row;
+      width: 1800px;
+  }
+  #aspect1{
+    border: solid;
+    width: 30%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    height: 10%;
+    margin-top: 3%;
+    text-align: center;
+    align-items: center;
+    
+  }
+  #aspect2{
+    border: solid;
+    width: 30%;
+    border-radius: 10px;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+  }
+  #aspect3{
+    border: solid;
+    width: 30%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    height: 10%;
+    margin-top: 3%;
+    text-align: center;
+    align-items: center;
+  }
+
+  /**#aspect1{
+     background-color: tomato;
+     border: solid;
+     height: 20em;
+    
+     margin: 5%;
+     justify-self: center;
+     text-align: center;
+     margin-top: 15%;
+    /**
+    
+  }
+  #aspect2{
+    background-color: tomato;
+    border: solid;
+    
+    margin: 7%;
+    height: 25em;
+   
+    margin-bottom: 2000px;
+ }
+ #aspect3{
+    background-color: tomato;
+     border: solid;
+     height: 20em;
+    
+     margin: 5%;
+     text-align: center;
+     margin-top: 15%;
+   **/
+ }#photo{
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     width: 30%;
+     background-color: violet;
+ }
+  
