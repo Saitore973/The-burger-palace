@@ -176,19 +176,17 @@ body{
     
   }
   #doble1{
-    background-color:  #f1f4f5fb;
-    border: solid;
     margin: 30px;
     border-radius: 60px;
     padding: 95px;
     width: 57%;
     font-size: 30px;
+    box-shadow: 0 30px 40px rgba(0,0,0,.1);
     
     
   }
   #doble2{
-    background-color:  #f1f4f5fb;
-  border: solid;
+    box-shadow: 0 30px 40px rgba(0,0,0,.1);
     margin: 30px;
     padding: 95px;
     border-radius: 60px;
@@ -197,8 +195,7 @@ body{
    
   }
   #doble3{
-    background-color: #f1f4f5fb;
-  border: solid;
+    box-shadow: 0 30px 40px rgba(0,0,0,.1);
     margin: 30px;
     padding: 95px;
     border-radius: 60px;
@@ -208,27 +205,24 @@ body{
     
   }
   #doble4{
-    background-color:  #f1f4f5fb;
-  border: solid;
-  padding: 95px;
+    box-shadow: 0 30px 40px rgba(0,0,0,.1);
+    padding: 95px;
     margin: 30px;
     border-radius: 60px;
     width: 57%;
     font-size: 30px;
   }
   #doble5{
-    background-color:  #f1f4f5fb;
-  border: solid;
-  padding: 95px;
+    box-shadow: 0 30px 40px rgba(0,0,0,.1);
+    padding: 95px;
     margin: 30px;
     border-radius: 60px;
     width: 57%;
     font-size: 30px;
   }
   #doble6{
-    background-color:  #f1f4f5fb;
-  border: solid;
-  padding: 95px;
+    box-shadow: 0 30px 40px rgba(0,0,0,.1);
+    padding: 95px;
     margin: 30px;
     border-radius: 60px;
     width: 57%;
@@ -248,6 +242,12 @@ body{
   #cost .cart{
     display: inline;
   }
+  .thedd{
+    background-color: lightseagreen;
+    width: 50%;
+    font-size: 100px;
+  }
+
 
  /** #bg8{
       width: 950px;
@@ -260,18 +260,19 @@ body{
       
      
   }
- 
- 
-  
-  
-#ddble{
- float: right;
+ .burgar8{
+   background-color: rgb(90, 54, 18);
+ }
 }
 .footer{
   background-color: hotpink;
 }
 .phone{
   background-color: #F6B400;
+}
+.prefooter{
+  background-color: maroon;
+  width: 30px;
 }
   /**#aspect1{
      background-color: tomato;
