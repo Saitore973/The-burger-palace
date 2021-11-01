@@ -97,54 +97,54 @@ color: #fff;
  
  
  
-} **/
+} 
  
 .burgar-aspects{
-    display: flex;
-    flex-direction: row;
+    background-color: rgb(170, 170, 224);
     clear: both;
-    background-color: #E1EBE6;
+    display: flex;
   }
- /**
- #aspect1{
-  border: solid;
-  width: 30%;
-  margin-right: 2.5%;
-  margin-left: 2.5%;
-  height: 10%;
-  margin-top: 3%;
-  text-align: center;
-  align-items: center;
-  border-radius: 15px;
-  padding: 2% 2% 2% 2%;
-  font-size: 20px;
-  }
- #aspect2{
-  border: solid;
-  width: 30%;
-  border-radius: 15px;
-  height: 100%;
-  text-align: center;
-  align-items: center;
-  padding-top: 5%;
-  padding-bottom: 7%;
-  padding-right: 5%;
-  padding-left: 5%;
-  font-size: 20px;
-  }
- #aspect3{
-  border: solid;
-  width: 30%;
-  margin-right: 2.5%;
-  margin-left: 2.5%;
-  height: 10%;
-  margin-top: 3%;
-  text-align: center;
-  align-items: center;
-  border-radius: 15px;
-  padding: 2% 2% 2% 2%;
-  font-size: 20px;
- } **/
+ 
+  #aspect1{
+    border: solid;
+    width: 30%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    height: 10%;
+    margin-top: 3%;
+    text-align: center;
+    align-items: center;
+    border-radius: 15px;
+    padding: 2% 2% 2% 2%;
+    font-size: 20px;
+    }
+   #aspect2{
+    border: solid;
+    width: 30%;
+    border-radius: 15px;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 7%;
+    padding-right: 5%;
+    padding-left: 5%;
+    font-size: 20px;
+    }
+   #aspect3{
+    border: solid;
+    width: 30%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    height: 10%;
+    margin-top: 3%;
+    text-align: center;
+    align-items: center;
+    border-radius: 15px;
+    padding: 2% 2% 2% 2%;
+    font-size: 20px;
+   
+ } 
  .double-burgar1{
   display: flex;
   flex-direction: row;
