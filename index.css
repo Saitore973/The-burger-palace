@@ -62,8 +62,8 @@ padding: 1200px;
 }
 
 .caption1{
-   width: 1800px;
-   padding: 100px;
+   width: 1200px;
+   padding: 20px;
    font-size: 90px;
    text-indent: 85px;
    line-height: 5px;
@@ -71,9 +71,10 @@ padding: 1200px;
 }
 .caption2{
  width: 1800px;
- padding: 100px;
+ padding: 20px;
  font-size: 90px;
  line-height: 5px;
+ text-indent: 90px;
 }
 .caption3{
   
@@ -81,14 +82,12 @@ padding: 1200px;
   margin-top: 80px;
   margin-left: -105px;
 }
-
-.delivery{
+.del{
    font-size: 50px;
    padding: 20px;
    line-height: 50px;
   
 }
-/**
 .button{
   
    display: inline-block;
