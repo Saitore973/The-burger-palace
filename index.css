@@ -261,5 +261,40 @@ padding: 1200px;
  }
   
  
+ #subfooter{
+     background-color: white;
+     display: flex;
+     
+ }
+ .sitemap{
+     width: 30%;
+     padding: 30px;
+ }
+ #hom{
+    width: 30%;
+    padding: 30px;
+ }
  
+#subscriber{
+    width: 30%;
+    padding: 30px;
+}
+.Lfooter{
+   
+    display: flex;
+    
+}
+#photo{
+    width: 95%;
+   
+}
+
+#design{
+    width: 95%;
+    
+   
+}
+#copyright{
+    width: 95%;
+}
 
