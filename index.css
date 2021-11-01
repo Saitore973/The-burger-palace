@@ -1,295 +1,287 @@
 
-  
-body{
-   
-    font-family: poppins;
+ 
+ body{
+ 
+ font-family: poppins;
 }
 #header{
-   display: inline; 
-   padding: 1200px;
-  
+display: inline;
+padding: 1200px;
+ 
 }.dot {
-    height: 25px;
-    width: 25px;
-    
-    border-radius: 50%;
-    display: inline-block;
-  }
-  .logo{
-     position: absolute; 
-     left: 100px;
-     top: 40px;
-     font-style: inherit;
-     
-  }
-  .home{
-      position: absolute;
-      left: 1000px;
-      top: 10px;
-    
-      
-  }
-  .offer{
-    position: absolute;
-      left: 1150px;
-      top: 10px;
-  }
-  .contact{
-    position: absolute;
-    left: 1300px;
-    top: 10px;
-  }
-  .about{
-    position: absolute;
-    left: 1450px;
-    top: 10px;
-  }
-  .Icon1{
-    position: absolute;
-    left: 1600px;
-    top: -28px;
-    width: 150px;
-  }
-  .burger1{
-    
-      width: 950px;
-      float: right ;
-      height: 1400px;
-     
-  }
-  .dev{
-    
-    float: left ;
-    width: 850px;
-    height: 1400px;
-    line-height: 150px;
-  }
-  .caption1{
-      width: 1800px;
-      padding: 100px;
-      font-size: 90px;
-      text-indent: 85px;
-      line-height: 5px;
-      
-  }
-  .caption2{
-    width: 1800px;
-    padding: 100px;
-    font-size: 90px;
-    line-height: 5px;
-  }
-  .caption3{
-      
-      padding: 90px;
-     margin-top: 80px;
-     margin-left: -105px;
-  }
-  .del{
-      font-size: 50px;
-      padding: 20px;
-      line-height: 50px;
-      
-  }
-  .button{
-      
-      display: inline-block;
-  padding: 1.35rem 2.25rem;
-  border-radius: 100rem;
-  color: #fff;
+ height: 25px;
+ width: 25px;
+  border-radius: 50%;
+ display: inline-block;
+}
+.logo{
+  position: absolute;
+  left: 100px;
+  top: 40px;
+  font-style: inherit;
  
- 
- 
-  }
-  .container{
-      display: flex;
-      flex-direction: row;
-      width: 1800px;
-      background-color: #E1EBE6;
-      padding: 2%;
-  }
-  #aspect1{
-    border: solid;
-    width: 30%;
-    margin-right: 2.5%;
-    margin-left: 2.5%;
-    height: 10%;
-    margin-top: 3%;
-    text-align: center;
-    align-items: center;
-    border-radius: 15px;
-    padding: 2% 2% 2% 2%;
-    font-size: 20px;
-    
-  }
-  #aspect2{
-    border: solid;
-    width: 30%;
-    border-radius: 15px;
-    height: 100%;
-    text-align: center;
-    align-items: center;
-    padding-top: 5%;
-    padding-bottom: 7%;
-    padding-right: 5%;
-    padding-left: 5%;
-    font-size: 20px;
-    
-  }
-  #aspect3{
-    border: solid;
-    width: 30%;
-    margin-right: 2.5%;
-    margin-left: 2.5%;
-    height: 10%;
-    margin-top: 3%;
-    text-align: center;
-    align-items: center;
-    border-radius: 15px;
-    padding: 2% 2% 2% 2%;
-    font-size: 20px;
-  }
-  .double{
+}
+.home{
+   position: absolute;
+   left: 1000px;
+   top: 10px;
    
+}
+.offer{
+ position: absolute;
+   left: 1150px;
+   top: 10px;
+}
+.contact{
+ position: absolute;
+ left: 1300px;
+ top: 10px;
+}
+.about{
+ position: absolute;
+ left: 1450px;
+ top: 10px;
+}
+.Icon1{
+ position: absolute;
+ left: 1600px;
+ top: -28px;
+ width: 150px;
+}
+.burger1{
+    width: 950px;
+   float: right ;
+   height: 1400px;
+ 
+}
+.dev{
+  float: left ;
+ width: 850px;
+ height: 1400px;
+ line-height: 150px;
+}
+
+.caption1{
+   width: 1800px;
+   padding: 100px;
+   font-size: 90px;
+   text-indent: 85px;
+   line-height: 5px;
+  
+}
+.caption2{
+ width: 1800px;
+ padding: 100px;
+ font-size: 90px;
+ line-height: 5px;
+}
+.caption3{
+  
+   padding: 90px;
+  margin-top: 80px;
+  margin-left: -105px;
+}
+
+.delivery{
+   font-size: 50px;
+   padding: 20px;
+   line-height: 50px;
+  
+}
+/**
+.button{
+  
+   display: inline-block;
+padding: 1.35rem 2.25rem;
+border-radius: 100rem;
+color: #fff;
+ 
+ 
+ 
+} **/
+ 
+.burgar-aspects{
     display: flex;
     flex-direction: row;
-    text-align: center;
-    align-items: center;
-    padding: 20px;
-    
-  }
-
-  .double2{
-   
-    display: flex;
-    flex-direction: row;
-    text-align: center;
-    align-items: center;
-    padding: 20px;
-    
-  }
-
-  .baga1{
-    
-    width: 200px;
-    height: 75%;
-    
-  }
-  #doble1{
-    margin: 30px;
-    border-radius: 60px;
-    padding: 95px;
-    width: 57%;
-    font-size: 30px;
-    box-shadow: 0 30px 40px rgba(0,0,0,.1);
-    
-    
-  }
-  #doble2{
-    box-shadow: 0 30px 40px rgba(0,0,0,.1);
-    margin: 30px;
-    padding: 95px;
-    border-radius: 60px;
-    width: 57%;
-    font-size: 30px;
-   
-  }
-  #doble3{
-    box-shadow: 0 30px 40px rgba(0,0,0,.1);
-    margin: 30px;
-    padding: 95px;
-    border-radius: 60px;
-    width: 57%;
-    font-size: 30px;
-
-    
-  }
-  #doble4{
-    box-shadow: 0 30px 40px rgba(0,0,0,.1);
-    padding: 95px;
-    margin: 30px;
-    border-radius: 60px;
-    width: 57%;
-    font-size: 30px;
-  }
-  #doble5{
-    box-shadow: 0 30px 40px rgba(0,0,0,.1);
-    padding: 95px;
-    margin: 30px;
-    border-radius: 60px;
-    width: 57%;
-    font-size: 30px;
-  }
-  #doble6{
-    box-shadow: 0 30px 40px rgba(0,0,0,.1);
-    padding: 95px;
-    margin: 30px;
-    border-radius: 60px;
-    width: 57%;
-    font-size: 30px;
-  }
- #cost{
-  text-align: left;
- }
-  .cart{
-   display: inline-flex;
-    text-align: right;
-    align-items: right;
-    width: 50px;
+    clear: both;
     background-color: #E1EBE6;
-    
   }
-  #cost .cart{
-    display: inline;
+ /**
+ #aspect1{
+  border: solid;
+  width: 30%;
+  margin-right: 2.5%;
+  margin-left: 2.5%;
+  height: 10%;
+  margin-top: 3%;
+  text-align: center;
+  align-items: center;
+  border-radius: 15px;
+  padding: 2% 2% 2% 2%;
+  font-size: 20px;
   }
-  .thedd{
-    width: 30%;
-    font-size: 50px;
-    padding: 20px;
+ #aspect2{
+  border: solid;
+  width: 30%;
+  border-radius: 15px;
+  height: 100%;
+  text-align: center;
+  align-items: center;
+  padding-top: 5%;
+  padding-bottom: 7%;
+  padding-right: 5%;
+  padding-left: 5%;
+  font-size: 20px;
   }
-  .burgar8{
-    background-color: blueviolet;
-    float: right;
-    padding: 10%;
+ #aspect3{
+  border: solid;
+  width: 30%;
+  margin-right: 2.5%;
+  margin-left: 2.5%;
+  height: 10%;
+  margin-top: 3%;
+  text-align: center;
+  align-items: center;
+  border-radius: 15px;
+  padding: 2% 2% 2% 2%;
+  font-size: 20px;
+ } **/
+ .double-burgar1{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  padding: 20px;
   }
-    
+  
+ .double-burgar2{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  padding: 20px;
+  }
+  
+ .baga1{
+   width: 200px;
+  height: 75%;
+  }
+ #doble1{
+  margin: 30px;
+  border-radius: 60px;
+  padding: 95px;
+  width: 57%;
+  font-size: 30px;
+  box-shadow: 0 30px 40px rgba(0,0,0,.1);
+  
+ }
+ #doble2{
+  box-shadow: 0 30px 40px rgba(0,0,0,.1);
+  margin: 30px;
+  padding: 95px;
+  border-radius: 60px;
+  width: 57%;
+  font-size: 30px;
+ }
+ #doble3{
+  box-shadow: 0 30px 40px rgba(0,0,0,.1);
+  margin: 30px;
+  padding: 95px;
+  border-radius: 60px;
+  width: 57%;
+  font-size: 30px;
+  
+  }
+ #doble4{
+  box-shadow: 0 30px 40px rgba(0,0,0,.1);
+  padding: 95px;
+  margin: 30px;
+  border-radius: 60px;
+  width: 57%;
+  font-size: 30px;
+ }
+ #doble5{
+  box-shadow: 0 30px 40px rgba(0,0,0,.1);
+  padding: 95px;
+  margin: 30px;
+  border-radius: 60px;
+  width: 57%;
+  font-size: 30px;
+ }
+ #doble6{
+  box-shadow: 0 30px 40px rgba(0,0,0,.1);
+  padding: 95px;
+  margin: 30px;
+  border-radius: 60px;
+  width: 57%;
+  font-size: 30px;
+ }
+  
+ /**
+ #cost{
+ text-align: left;
+ }
+ .cart{
+ display: inline-flex;
+  text-align: right;
+  align-items: right;
+  width: 50px;
+  background-color: #E1EBE6;
+  }
+ #cost .cart{
+  display: inline;
+ }
+ .thedd{
+  width: 30%;
+  font-size: 50px;
+  padding: 20px;
+ }
+ .burgar8{
+  background-color: blueviolet;
+  float: right;
+  padding: 10%;
+ }
   .record{
-    position: relative;
-    width: 100vw;
-    display: flex;
-    flex-direction: column;
-  }
+  position: relative;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+ }
   
-  .record > .double{
-    position: relative;
-    background: rgb(231, 235, 231);
-    display: flex;
-    flex-direction: row;
-    height: 70vh;
+ .record > .double{
+  position: relative;
+  background: rgb(231, 235, 231);
+  display: flex;
+  flex-direction: row;
+  height: 70vh;
   
-    justify-content: space-evenly;
-    align-items: center;
-    Background Color: #E1EBE6
+  justify-content: space-evenly;
+  align-items: center;
+  Background Color: #E1EBE6
   
-  }
+ }**/
   
-  .record > .discover{
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    height: 90vh;
-    justify-content: space-evenly;
-    align-items: center;
-    background-color: #F6B400
-  }
-  .discover > .sectionB{
-    background: rgb(223, 223, 24);
-    height: 90vh;
-    width: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #F6B400
-  }
+ .record > .discover{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  height: 90vh;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #F6B400
+ }
+ .discover > .sectionB{
+  background: rgb(223, 223, 24);
+  height: 90vh;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F6B400
+ }
+  
+  
+  
+ **/
  
-  
  
