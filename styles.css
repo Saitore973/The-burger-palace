@@ -3,12 +3,15 @@
  body{
  
  font-family: poppins;
+
+}
+
 }
 #header{
 display: inline;
 padding: 1200px;
- 
-}.dot {
+}
+ .dot {
  height: 25px;
  width: 25px;
   border-radius: 50%;
@@ -49,9 +52,9 @@ padding: 1200px;
  width: 150px;
 }
 .burger1{
-    width: 950px;
+    width: 850px;
    float: right ;
-   height: 1400px;
+   height: 1100px;
  
 }
 .dev{
