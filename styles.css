@@ -267,6 +267,18 @@ button{
     float: left;
 }
 
+.double-burgar1 .cart{
+    font-size: 25px;
+    float: right;
+  
+}
+
+.double-burgar2 .cart{
+    font-size: 25px;
+    float: right;
+    
+}
+
   .record{
   position: relative;
   width: 98vw;
