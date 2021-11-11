@@ -30,6 +30,11 @@ padding: 1200px;
    top: 10px;
    
 }
+.home hr{
+    width: 60px;
+    height: 8px;
+    background-color: rgb(224, 91, 39);
+}
 .offer{
  position: absolute;
    left: 1150px;
@@ -110,6 +115,7 @@ button{
     border-radius: 40px 40px 0px 40px;
     margin-left: 70px;
     background-color: #F6B400;
+    border: unset;
     
 
 } 
@@ -165,6 +171,21 @@ button{
     font-size: 20px;
    
  } 
+
+ .menu{
+     text-align: center;
+     font-size: 50px;
+ }
+
+ .menu hr{
+     width: 120px;
+     height: 8px;
+     background-color:  rgb(224, 91, 39);
+ }
+
+ .menu span{
+     color: #F6B400;
+ }
  .double-burgar1{
   display: flex;
   flex-direction: row;
@@ -235,6 +256,16 @@ button{
   width: 57%;
   font-size: 30px;
  }
+
+ .double-burgar1 #cost{
+     font-size: 25px;
+     float: left;
+ }
+
+ .double-burgar2 #cost{
+    font-size: 25px;
+    float: left;
+}
 
   .record{
   position: relative;
