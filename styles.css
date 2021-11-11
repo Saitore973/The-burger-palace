@@ -51,10 +51,16 @@ padding: 1200px;
  top: -28px;
  width: 150px;
 }
+
+.profile{
+    display: flex;
+    padding-bottom: 0px;
+}
 .burger1{
-    width: 850px;
+    width: 800px;
    float: right ;
    height: 1100px;
+   padding-left: 150px;
  
 }
 .dev{
@@ -91,19 +97,32 @@ padding: 1200px;
    line-height: 50px;
   
 }
-.button{
+.delivery{
+    font-size: 50px;
+    padding: 60px;
+    line-height: 50px;
+}
+
+button{
   
-    display: inline-block;
-    padding: 1.35rem 2.25rem;
-    border-radius: 100rem;
-    color: #fff;
+    
+    padding:  30px 55px;
+    border-radius: 40px 40px 0px 40px;
+    margin-left: 70px;
+    background-color: #F6B400;
+    
 
 } 
+
+.burner{
+    background: linear-gradient(110deg, #FFFFFF 52%,  #FEC130 52%);
+}
  
 .burgar-aspects{
     background-color: #E1EBE6;
     clear: both;
     display: flex;
+    padding: 100px;
   }
  
   #aspect1{
@@ -216,11 +235,6 @@ padding: 1200px;
   width: 57%;
   font-size: 30px;
  }
-.delivery{
-    font-size: 50px;
-    padding: 20px;
-    line-height: 50px;
-}
 
   .record{
   position: relative;
