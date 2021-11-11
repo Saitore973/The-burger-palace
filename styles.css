@@ -281,10 +281,11 @@ button{
 
   .record{
   position: relative;
-  width: 98vw;
+  width: 98ovw;
   display: flex;
   flex-direction: column;
   font-size: 40px;
+  
  }
   
  .record > .double{
