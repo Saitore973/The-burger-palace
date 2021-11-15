@@ -108,7 +108,7 @@ padding: 1200px;
     line-height: 50px;
 }
 
-button{
+.butt{
   
     
     padding:  30px 55px;
@@ -308,7 +308,7 @@ button{
   height: 90vh;
   justify-content: space-evenly;
   align-items: center;
-  background-color: #F6B400
+  background-color: #F6B400;
   
  }
  .sectionB{
@@ -340,11 +340,17 @@ button{
 #subscriber{
     width: 30%;
     padding: 30px;
+    display: inline-block;
 }
 .Lfooter{
    
     display: flex;
     
+}
+.sub{
+    padding: 10px 60px;
+    background-color:#F6B400 ;
+    border: none;
 }
 
 .Lfooter #photo{
