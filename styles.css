@@ -330,6 +330,7 @@ button{
  .sitemap{
      width: 30%;
      padding: 30px;
+     
  }
  #hom{
     width: 30%;
@@ -345,8 +346,10 @@ button{
     display: flex;
     
 }
-#photo{
-    width: 95%;
+
+.Lfooter #photo{
+    padding-top: 60px;
+   
    
 }
 
